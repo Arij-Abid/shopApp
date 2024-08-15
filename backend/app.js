@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 app.use(cors({
-  origin: ['https://shop-app-mu-two.vercel.app',],
+  origin: ['',],
   credentials: true
 }));
 
